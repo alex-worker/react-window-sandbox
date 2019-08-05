@@ -1,0 +1,10 @@
+.list-item {
+  border: 1px dotted red;
+  font-size: 16px;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+.list-place {
+  border: 1px dashed blue;
+  height: 100vh;
+}
